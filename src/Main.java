@@ -15,10 +15,7 @@ public class Main {
         Scanner scanner = new Scanner(System.in);
 
         System.out.println("Welcome to Inventory Tracker!");
-        System.out.println("What is your username?");
-        String userName = scanner.nextLine();
 
-        System.out.println("What is your password?");
 
         while (true) {
 
